@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Iframe Order Exporter",
+  "version": "1",
+  "description": "Exports ExtJS grid data from iframes to Excel.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
